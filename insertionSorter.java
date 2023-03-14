@@ -1,5 +1,4 @@
-/*
- * Credit: Adapted from notes - CS112 BU
+/* Credit: Adapted from notes - CS112 BU
 * 
 *Use insertion sort because charges across electrode array are naturally "grouped" across array in many cases
 *(insertion sort --> best for arrays that are almost sorted)
